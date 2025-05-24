@@ -1,0 +1,273 @@
+[
+   {
+    "id": 1,
+    "category": "flower",
+    "name": "Peony Bloom",
+    "image": "https://i.ibb.co/4nt5BTQH/peonybloom.jpg",
+    "description": "Delicate peony petals blended with floral oils for a relaxing, garden-fresh ambiance.",
+    "flavour": "scented",
+    "price": 1700
+  },
+  {
+    "id": 2,
+    "category": "flower",
+    "name": "Flower Haven",
+    "image": "https://i.ibb.co/YYXPpMx/flower.jpg",
+    "description": "An elegant floral bouquet scent that transforms your space into a peaceful retreat.",
+    "flavour": "scented",
+    "price": 1500
+  },
+  {
+    "id": 3,
+    "category": "flower",
+    "name": "Green Cactus",
+    "image": "https://i.ibb.co/MkK6nMkP/cactus.jpg",
+    "description": "Fresh and earthy tones of cactus and aloe, ideal for minimal and nature-inspired settings.",
+    "flavour": "basic",
+    "price": 1000
+  },
+  {
+    "id": 4,
+    "category": "fruit",
+    "name": "Lemon Spice",
+    "image": "https://i.ibb.co/vSY20cb/Aromatherapy.jpg",
+    "description": "A zesty lemon twist paired with warm spices to energize and refresh your mood.",
+    "flavour": "scented",
+    "price": 1100
+  },
+  {
+    "id": 5,
+    "category": "love",
+    "name": "Bow Candle Set",
+    "image": "https://i.ibb.co/tPYysxV6/bow.jpg",
+    "description": "Charming and romantic, this bow-tied candle set adds a soft, cozy touch to your evenings.",
+    "flavour": "basic",
+    "price": 900
+  },
+
+   {
+    "id": 6,
+    "category": "flower",
+    "name": "Purple Breeze",
+    "image": "https://i.ibb.co/JWC4Nm4G/purple.jpg",
+    "description": "A soothing blend of lavender and violet petals that drifts through the air like a gentle breeze.",
+    "flavour": "scented",
+    "price": 1250
+  },
+  {
+    "id": 7,
+    "category": "flower",
+    "name": "Lighten Up Sunflower",
+    "image": "https://i.ibb.co/Tx7LMDK1/sunflower.jpg",
+    "description": "Brighten your space with the cheerful and fresh scent of blooming sunflowers.",
+    "flavour": "basic",
+    "price": 1400
+  },
+  {
+    "id": 8,
+    "category": "fruit",
+    "name": "Coconutty",
+    "image": "https://i.ibb.co/nMKJTdwV/coconut.jpg",
+    "description": "A creamy tropical blend of fresh coconut that brings beachy vibes to your home.",
+    "flavour": "scented",
+    "price": 1700
+  },
+  {
+    "id": 9,
+    "category": "love",
+    "name": "Mini Candles Set",
+    "image": "https://i.ibb.co/sv3ctCQr/mini.jpg",
+    "description": "A lovely set of miniature candles with soft aromas, perfect for intimate moments or gifting.",
+    "flavour": "basic",
+    "price": 1000
+  },
+  {
+    "id": 10,
+    "category": "dessert",
+    "name": "Chocolate Bliss",
+    "image": "https://i.ibb.co/svqFLF44/Chocolate-Bliss.jpg",
+    "description": "Indulge in the rich, decadent scent of melted chocolate — a true dessert lover’s dream.",
+    "flavour": "scented",
+    "price": 1700
+  },
+   {
+    "id": 11,
+    "category": "dessert",
+    "name": "Chai & Cookies",
+    "image": "https://i.ibb.co/JWJchvKB/tea-Cookies.jpg",
+    "description": "A cozy blend of spiced chai and warm vanilla cookies — perfect for relaxing evenings.",
+    "flavour": "scented",
+    "price": 2500
+  },
+  {
+    "id": 12,
+    "category": "dessert",
+    "name": "Sweet Coffee",
+    "image": "https://i.ibb.co/hJ3G95tF/coffee.jpg",
+    "description": "Wake up your senses with the rich aroma of freshly brewed sweetened coffee.",
+    "flavour": "scented",
+    "price": 1100
+  },
+  {
+    "id": 13,
+    "category": "dessert",
+    "name": "Ice-Cream",
+    "image": "https://i.ibb.co/HpNG5xYd/icecream.jpg",
+    "description": "A cool and creamy fragrance reminiscent of vanilla ice cream on a summer day.",
+    "flavour": "scented",
+    "price": 1400
+  },
+  {
+    "id": 14,
+    "category": "dessert",
+    "name": "Hot Chocolate",
+    "image": "https://i.ibb.co/Z6XYkvT2/hot-Chocolate.jpg",
+    "description": "Rich, indulgent chocolate notes swirled with marshmallow sweetness for a cozy vibe.",
+    "flavour": "scented",
+    "price": 3000
+  },
+  {
+    "id": 15,
+    "category": "dessert",
+    "name": "Coffee Latte",
+    "image": "https://i.ibb.co/LzSQj4Vr/coffie-Latte.jpg",
+    "description": "Creamy latte aroma with hints of caramel and steamed milk — like your favorite café.",
+    "flavour": "scented",
+    "price": 1500
+  },
+  {
+    "id": 16,
+    "category": "fruit",
+    "name": "Lemon Meringue",
+    "image": "https://i.ibb.co/mFzDjKqw/lemon-Meringue.jpg",
+    "description": "A zesty lemon scent layered with sweet vanilla meringue for a dessert-inspired treat.",
+    "flavour": "scented",
+    "price": 1100
+  },
+ {
+    "id": 17,
+    "category": "fruit",
+    "name": "Strawberry Cream",
+    "image": "https://i.ibb.co/KpyVcw3v/strawberry-Whiped.jpg",
+    "description": "A sweet and creamy blend of ripe strawberries and whipped vanilla — like dessert in a jar.",
+    "flavour": "scented",
+    "price": 1700
+  },
+  {
+    "id": 18,
+    "category": "flower",
+    "name": "Pink Rose",
+    "image": "https://i.ibb.co/xty7c1p7/pinkRose.jpg",
+    "description": "Elegant pink rose petals blended into a soft, romantic fragrance perfect for calm evenings.",
+    "flavour": "scented",
+    "price": 1200
+  },
+  {
+    "id": 19,
+    "category": "flower",
+    "name": "Dried Flower",
+    "image": "https://i.ibb.co/MxHmdLHj/dried-Flower.jpg",
+    "description": "A rustic aroma evoking the charm of dried florals and warm afternoons in the countryside.",
+    "flavour": "basic",
+    "price": 700
+  },
+  {
+    "id": 20,
+    "category": "flower",
+    "name": "Rose Garden",
+    "image": "https://i.ibb.co/fz3F8F7Y/garden.jpg",
+    "description": "Step into a blooming garden with this rich blend of fresh rose petals and subtle greenery.",
+    "flavour": "scented",
+    "price": 2500
+  },
+  {
+    "id": 21,
+    "category": "flower",
+    "name": "Red Rose",
+    "image": "https://i.ibb.co/7xvFP6NB/redRose.jpg",
+    "description": "A bold and passionate red rose fragrance that fills your space with timeless elegance.",
+    "flavour": "scented",
+    "price": 3000
+  },
+  {
+    "id": 22,
+    "category": "flower",
+    "name": "White Rose",
+    "image": "https://i.ibb.co/7xTBfpP8/white-Rose.jpg",
+    "description": "Delicate and pure, this white rose candle brings a soft floral breeze to any room.",
+    "flavour": "scented",
+    "price": 1200
+  },
+   {
+    "id": 23,
+    "category": "flower",
+    "name": "Lavender Rose",
+    "image": "https://i.ibb.co/0Vh76dVh/lavender-Rose.jpg",
+    "description": "A soothing fusion of lavender and rose that brings calm and floral elegance to your space.",
+    "flavour": "scented",
+    "price": 1200
+  },
+  {
+    "id": 24,
+    "category": "Fruit",
+    "name": "Wild Cherry",
+    "image": "https://i.ibb.co/Rmh0GFd/wild-Cherry.jpg",
+    "description": "Bursting with the bold and juicy aroma of wild cherries — sweet, tangy, and vibrant.",
+    "flavour": "scented",
+    "price": 2050
+  },
+  {
+    "id": 25,
+    "category": "Fruit",
+    "name": "Apple Crisp",
+    "image": "https://i.ibb.co/ZRbh4Lch/apple-Crisp.jpg",
+    "description": "A warm and comforting scent of baked apples with cinnamon and sugar crust notes.",
+    "flavour": "scented",
+    "price": 2000
+  },
+  {
+    "id": 26,
+    "category": "Love",
+    "name": "Gold Touched Vanilla",
+    "image": "https://i.ibb.co/mCgqZwM3/gold-Touch.jpg",
+    "description": "A luxurious blend of rich vanilla with golden amber undertones — elegant and warm.",
+    "flavour": "scented",
+    "price": 1050
+  },
+  {
+    "id": 27,
+    "category": "Love",
+    "name": "Smoothy",
+    "image": "https://i.ibb.co/DfvjpN8s/smoothy.jpg",
+    "description": "A velvety mix of soft fruits and vanilla, offering a creamy and gentle fragrance.",
+    "flavour": "scented",
+    "price": 1050
+  },
+  {
+    "id": 28,
+    "category": "dessert",
+    "name": "Bannana Pudding",
+    "image": "https://i.ibb.co/ccR26zkL/bannana-Pudding.jpg",
+    "description": "Sweet and nostalgic, this candle smells like creamy banana pudding with a hint of vanilla wafer.",
+    "flavour": "scented",
+    "price": 1500
+  },
+  {
+    "id": 29,
+    "category": "Love",
+    "name": "Sea Shell",
+    "image": "https://i.ibb.co/RkpnVBYJ/shell.jpg",
+    "description": "Inspired by the ocean breeze, this fresh and airy scent brings seaside serenity to your room.",
+    "flavour": "basic",
+    "price": 300
+  },
+  {
+    "id": 30,
+    "category": "Love",
+    "name": "Honey bae",
+    "image": "https://i.ibb.co/W4PCNYwv/honey.jpg",
+    "description": "A warm and cozy scent of golden honey with soft floral notes — sweet and tender.",
+    "flavour": "scented",
+    "price": 500
+  }
+]
