@@ -3,8 +3,8 @@ import Link from "next/link";
 
 const Navbar = () => {
     return (
-       <div className="">
-         <div className="max-w-6xl mx-auto  flex justify-between fixed top-0 bg-transparent transform -translate-x-1/2 left-1/2 py-10 w-full items-center ">
+       <div className="bg-[#402218]/20 z-10 fixed top-0 w-full text-white">
+         <div className="py-7 max-w-6xl mx-auto flex justify-between">
             {/* brand name */}
            <div>
             <Link href='/' className="italic">Lux Flamma</Link>
@@ -25,7 +25,8 @@ const Navbar = () => {
                 
            </ul>
         </div>
-       </div>
+        </div>
+      
     );
 };
 
