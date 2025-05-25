@@ -2,4 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+.image_box {
+  opacity: 0;
+  transition: opacity 0.4s ease, transform 0.4s ease;
+  pointer-events: none;
+}
 
+.main_box:hover .image_box {
+  opacity: 0.7;
+}
+
+.coffee{
+    color: #402218;
+}

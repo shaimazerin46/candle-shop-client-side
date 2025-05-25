@@ -11,7 +11,7 @@ const HeroSection = () => {
                 backgroundRepeat: 'no-repeat',
                 backgroundSize: 'cover'
             }}
-        className='h-[500px] flex justify-center items-center' >
+        className='h-[550px] flex justify-center items-center' >
             <div className='text-white text-center space-y-6'>
                 <h3>Where Light Meets Luxury</h3>
             <p className='text-5xl'>Indulge in the warmth of natural fragrance </p>
