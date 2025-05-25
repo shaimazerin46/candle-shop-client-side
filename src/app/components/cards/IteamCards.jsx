@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { MdOutlineShoppingCart } from "react-icons/md";
 import { IoEyeOutline } from "react-icons/io5";
+import Link from "next/link";
 
 const IteamCards = ({ item }) => {
     return (
@@ -8,18 +9,21 @@ const IteamCards = ({ item }) => {
             {/* Overlay */}
             <div className='absolute top-0 left-0 right-0 h-96 w-[258px] bg-[#C68B59] opacity-60 z-10 image_box'>
 
-               <div className="space-y-3 text-center text-white absolute transform -translate-x-1/2 left-1/2 top-1/2 -translate-y-1/2">
-                <p>{item?.name}</p>
-                <p>{item?.price} BDT</p>
-                 <div className="flex justify-center gap-2  text-3xl">
-                    <MdOutlineShoppingCart /> <IoEyeOutline />
-                 </div>
-               </div>
+                <div className="space-y-3 text-center text-white absolute transform -translate-x-1/2 left-1/2 top-1/2 -translate-y-1/2">
+                    <p>{item?.name}</p>
+                    <p>{item?.price} BDT</p>
+                    <div className="flex justify-center gap-2 text-3xl">
+                        <MdOutlineShoppingCart />
+                        <Link href={`candles/${item._id}`} className="pointer-events-auto">
+                            <IoEyeOutline />
+                        </Link>
+                    </div>
+                </div>
             </div>
 
             {/* Image */}
-            
-                {/* <Image
+
+            {/* <Image
                     src={item?.image}
                     alt="Candles"
                     priority={true}
@@ -27,8 +31,9 @@ const IteamCards = ({ item }) => {
                     height={384}
                     className="object-cover"
                 /> */}
-                <img src={item?.image} alt="" className="h-96 lg:w-96 w-[258px] object-cover"/>
-            
+            <img src={item?.image} alt="" className="h-96 lg:w-96 w-[258px] object-cover" />
+
+
         </div>
     );
 };

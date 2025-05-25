@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@plugin "daisyui";
 
 .image_box {
   opacity: 0;
@@ -14,4 +15,13 @@
 
 .coffee{
     color: #402218;
+}
+.secondary{
+    color: #928c81;
+}
+.lite_coffee{
+    color: #865439;
+}
+.litter_coffee{
+    color: #C68B59;
 }

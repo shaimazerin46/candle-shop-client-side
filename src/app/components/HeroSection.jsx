@@ -1,5 +1,6 @@
 import Button from "@/components/Button";
 import banner from "@/../public/images/banner.png"
+import Link from "next/link";
 
 
 const HeroSection = () => {
@@ -16,7 +17,7 @@ const HeroSection = () => {
                 <h3>Where Light Meets Luxury</h3>
             <p className='text-5xl'>Indulge in the warmth of natural fragrance </p>
             <div className='flex justify-center items-center'>
-                <Button text={"Find Your Scent"}></Button>
+               <Link href='/shop'> <Button text={"Find Your Scent"}></Button></Link>
             </div>
             </div>
         </div>
