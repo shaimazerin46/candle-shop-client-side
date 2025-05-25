@@ -12,7 +12,7 @@ import { IoMdStar } from "react-icons/io";
 
 
 
-const page = async({params}) => {
+const DetailPage = async({params}) => {
     const {id} = params;
       
   
@@ -62,4 +62,4 @@ const page = async({params}) => {
     );
 };
 
-export default page;
+export default DetailPage;

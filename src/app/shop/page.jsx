@@ -4,7 +4,7 @@ import IteamCards from '../components/cards/IteamCards';
 import shop from '@/../public/images/shop.jpg'
 import Headline from '@/components/Headline';
 
-const page = async () => {
+const ShopPage = async () => {
 
     const itemCollections = dbConnect(collectionNameObj.itemCollections)
     const data = await itemCollections.find().toArray()
@@ -40,4 +40,4 @@ const page = async () => {
     );
 };
 
-export default page;
+export default ShopPage;
