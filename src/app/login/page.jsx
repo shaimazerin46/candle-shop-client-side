@@ -20,7 +20,7 @@ const LoginPage = () => {
             <p className="text-right">Don't have an account?<Link href="/register" className="link link-hover">sign in</Link></p>
           </div>
          <div className="flex justify-center mx-auto mt-5">
-            <Button text={"Sign in"}></Button>
+            <Button text={"Sign up"}></Button>
          </div>
         </fieldset>
       </div>
